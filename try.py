@@ -1,7 +1,7 @@
 from serpapi import GoogleSearch
 params = {
 "engine": "google",
-"q": "Is there any popular recommendation for commuter car choice",
+"q": "Is there any popular recommendation for cruise choice",
 "api_key": "c18bc6ba16a4fa7599247699d5831030442f4a93a298dcf4a1aae1612b46a648",
 "start": 30
 }
