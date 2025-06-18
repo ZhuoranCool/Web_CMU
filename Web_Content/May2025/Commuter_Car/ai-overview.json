@@ -2,54 +2,52 @@
     "text_blocks": [
         {
             "type": "paragraph",
-            "snippet": "For most users, the MacBook Air M4 is a popular recommendation. It's praised for its overall performance, portability, and long battery life. Other popular choices include the Asus Zenbook S14 for its ultra-portability and Dell Inspiron 14 Plus for its good value. The Dell XPS 13 is also often recommended for its excellent battery life.",
-            "snippet_highlighted_words": [
-                "MacBook Air M4"
-            ],
+            "snippet": "For commuter car choices, several factors are important, including fuel efficiency, comfort, safety, reliability, and technology features. Here are some popular recommendations that rank high in these areas:",
             "reference_indexes":[
                 0,1,3,4,5,2,6
             ]
         },
         {
-            "type": "paragraph",
-            "title": "Here's a more detailed breakdown of popular recommendations:"
-        },
-        {
             "type": "list",
             "list": [
                 {
-                    "title": "MacBook Air M4:",
+                    "title": "Highly Recommended & Fuel Efficient Options:",
                     "snippets": {
-                        "Overall": "Highly regarded for its performance, portability, and battery life. ",
-                        "Target Audience": "General users, students, and creatives who value a good balance of power and portability." 
+                        "Toyota Prius / Prius Hybrid": "This hybrid is renowned for its outstanding fuel economy (up to 57 mpg combined) and reliability, making it a great choice for saving on gas and reducing your environmental impact. The latest models also offer advanced safety features like Toyota Safety Sense 3.0.",
+                        "Toyota Corolla Hybrid": "A reliable and affordable hybrid option that also provides excellent fuel efficiency.",
+                        "Hyundai Elantra Hybrid": " This hybrid offers excellent gas mileage and a low starting price, winning the 2025 Best Hybrid Car for the Money award." 
                     },
                     "reference_indexes":[0,1,7,8,9,10]
                 },
                 {
-                    "title": "Asus Zenbook S14: ",
+                    "title": "Reliable & Affordable Sedans: ",
                     "snippets": {
-                        "Ultra-portable": "Known for its lightweight and slim design. ",
-                        "Target Audience": "Those who prioritize portability and a sleek design, often professionals or students who need to work on the go. " 
+                        "UHonda Civic": "A consistently popular commuter car known for its reliability, good fuel economy, and comfortable interior.",
+                        "Toyota Corolla": "A classic commuter car, reliable, fuel-efficient, and affordable, with good safety features.",
+                        "Hyundai Elantra": "Offers great value with a comfortable ride, good fuel economy, and a long warranty.",
+                        "Nissan Sentra": "A budget-friendly option with strong safety features and a comfortable ride."
                     },
                     "reference_indexes": [
                         0,1,11,12
                     ]
                 },
                 {
-                    "title": "Dell Inspiron 14 Plus: ",
+                    "title": "Versatile SUVs/Crossovers:",
                     "snippets": {
-                        "Good Value": "Offers a solid balance of performance and features for its price. ",
-                        "Target Audience": "Users who are looking for a reliable and versatile laptop without breaking the bank. "
+                        "Kia Soul": " A stylish and affordable option known for its surprisingly spacious interior.",
+                        "Honda CR-V Hybrid": "A reliable and fuel-efficient SUV offering a comfortable ride and ample cargo space.",
+                        "Subaru Outback": "Versatile for various terrains with standard AWD, offering comfort and capability for long commutes.",
+                        "Mazda CX-5": "Offers a refined interior, good driving dynamics, and plenty of features. "
                     },
                     "reference_indexes": [
                         1,2,13,14
                     ]
                 },
                 {
-                    "title": "Dell XPS 13: ",
+                    "title": "Electric Vehicle Options:",
                     "snippets": {
-                        "Best Battery Life": "Often touted for its long-lasting battery. ",
-                        "Target Audience": "Those who need a laptop that can run for extended periods without needing to be plugged in, such as commuters or students. "
+                        "Tesla Model 3": "An electric car offering a long range and advanced technology features, including Autopilot.",
+                        "Chevrolet Bolt EV": "An electric car known for its high energy efficiency and modern design with a long range. "
                     },
                     "reference_indexes": [
                         0,1,15,16
